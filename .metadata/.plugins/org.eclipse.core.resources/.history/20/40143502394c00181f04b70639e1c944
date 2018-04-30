@@ -1,0 +1,5 @@
+package main.com.Demo.error;
+
+public class MyAccessDeniedHandler {
+
+}
